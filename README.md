@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌟🌟🌟🌟🌟 Java、JavaScript、TypeScript
+- 🌟🌟🌟🌟 Web3, Crypto, Payment, IoT, Crawler, Smart City, Big Data, Settlement and Risk Control, E-commerce, Marketing, Logistics and Freight、Security
+- 😄 Lovers of Buddhism, Zhouyi and Numerology, Familiar with Buddhist classics and Confucian culture
+- 🤔 Enjoys reading and has a passion for philosophy and contemplation
+- 📒 Personal notes to https://notes.zgrep.me
