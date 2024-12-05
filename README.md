@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 💻 **Technical Expertise**  
-🌟🌟🌟🌟🌟 **Programming Languages**: JavaScript, TypeScript, Python, Java
+🌟🌟🌟🌟🌟 **Programming Languages**: JavaScript, TypeScript, Python, Java  
 🌟🌟🌟🌟 **Domains & Technologies**: Web3, Cryptocurrency, Payment Systems, IoT, Distributed Crawlers, Smart Cities, Big Data, Settlement & Risk Control, Quant, E-commerce, Marketing, Logistics & Freight, Security  
 
 📚 **Personal Interests**  
