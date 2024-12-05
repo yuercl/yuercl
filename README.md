@@ -17,8 +17,27 @@ Here are some ideas to get you started:
 
 💻 **Technical Expertise**  
 🌟🌟🌟🌟🌟 **Programming Languages**: JavaScript, TypeScript, Python, Java  
-🌟🌟🌟🌟 **Domains & Technologies**: Web3, Cryptocurrency, Payment Systems, IoT, Distributed Crawlers, Smart Cities, Big Data, Settlement & Risk Control, Quant, E-commerce, Marketing, Logistics & Freight, Security  
+🌟🌟🌟🌟 **Domains & Technologies**: Web3, Cryptocurrency, Blockchain, Quantitative Finance, Payment Systems, IoT, Distributed Crawlers, Smart Cities, Big Data, Risk Management, Settlement Systems, E-commerce, Marketing, Logistics, Freight, and Security  
+
+🔭 **I’m currently working on**:  
+- Developing blockchain-based applications  
+- Designing quantitative trading strategies  
+- Building algorithmic trading systems  
+
+🌱 **I’m currently learning**:  
+- Advanced blockchain-based solutions  
+- Portfolio optimization techniques  
+- Comprehensive risk management methodologies  
+
+💬 **Ask me about**:  
+- Web3 technologies  
+- Quantitative finance  
+- Buddhist philosophy and spiritual insights  
+
+📫 **How to reach me**: yuerguang[dot]cl[at]gmail.com  
+
+⚡ **Fun fact**: I thrive at the intersection of technology, finance, and philosophy, often merging my technical expertise with contemplative insights for unique problem-solving.  
 
 📚 **Personal Interests**  
-🌼 Passionate about Buddhism, Zhouyi, and Numerology, with a strong familiarity with Buddhist classics and Confucian culture.  
-🧠 Avid reader and thinker, deeply interested in philosophy, contemplation, and exploring profound ideas.  
+🌼 Deeply passionate about Buddhism, Zhouyi, and Numerology, with a strong foundation in Buddhist classics and Confucian culture.  
+🧠 A lifelong learner, avid reader, and thinker, drawn to philosophy, introspection, and the exploration of profound ideas.  
