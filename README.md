@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌟🌟🌟🌟🌟 Java、JavaScript、TypeScript
-- 🌟🌟🌟🌟 Web3, Crypto, Payment, IoT, Distributed Crawler, Smart City, Big Data, Settlement and Risk Control, E-commerce, Marketing, Logistics and Freight、Security
-- 😄 Lovers of Buddhism, Zhouyi and Numerology, Familiar with Buddhist classics and Confucian culture
-- 🤔 Enjoys reading and has a passion for philosophy and contemplation
-- 📒 Personal notes to https://notes.zgrep.me
+💻 **Technical Expertise**  
+🌟🌟🌟🌟🌟 **Programming Languages**: Java, JavaScript, TypeScript  
+🌟🌟🌟🌟 **Domains & Technologies**: Web3, Cryptocurrency, Payment Systems, IoT, Distributed Crawlers, Smart Cities, Big Data, Settlement & Risk Control, Quant, E-commerce, Marketing, Logistics & Freight, Security  
+
+📚 **Personal Interests**  
+🌼 Passionate about Buddhism, Zhouyi, and Numerology, with a strong familiarity with Buddhist classics and Confucian culture.  
+🧠 Avid reader and thinker, deeply interested in philosophy, contemplation, and exploring profound ideas.  
